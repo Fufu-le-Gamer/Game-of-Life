@@ -4,7 +4,6 @@
 #include <chrono>
 #include<thread>
 #include <conio.h>
-#include<fstream>
 
 //Compte le tous les voisins des cellules vivantes
 int countNeighbors(int* grid, int x, int y, int SizeX, int SizeY) {
